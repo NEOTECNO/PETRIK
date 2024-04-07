@@ -3117,12 +3117,12 @@ margin-top: -80px;
   }
 
   .navbar-nav {
-    margin-top: 30px;
+    margin-top: 3vh;
     flex-direction: row;
   }
 
   .navbar-nav2 {
-    margin-top: 500px;
+    margin-top: 70vh;
     flex-direction: row;
   }
 
